@@ -2,12 +2,13 @@
 
 ## Installation / Initialization
 
-### version 
+### Version 
 -----------
 - xampp == 8.2.12 / PHP 8.2.12
 - Node == 20.15.1 (LTS)
 - Composer == 2.7.7
 - Laravel == 11.15.0 (PHP 8.2.12) (This normally build with Composer)
+
 
 ### After pull project
 -----------------------
@@ -44,6 +45,7 @@
 	- to create db tables
 	- to create dummy data
 
+
 ### Start running the server for development
 --------------------------------------------
 9. Run `php artisan serve` and `npm run dev` in terminal 
@@ -51,19 +53,14 @@
 	- to start run vite server 
 
 
-
-### PayPal sandbox user credential 
-
+### PayPal sandbox
 --------------------------------------------
-
-- Email : sb-e564c31712441@personal.example.com
-- Password :  payment123
+- You may need to Register an Account in [Paypal Sandbox](https://www.sandbox.paypal.com/us/home)
+- Update the relevant Paypal API keys in `.env`	files
 
 
 
 ### Web Services / API
-
 --------------------------------------------------
-
 - All the relevant README files will be inside each of the Project Folder
 
