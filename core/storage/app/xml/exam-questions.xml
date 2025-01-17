@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question id="1">
+        <text>Describe the principles of progressive overload and how you would apply them to a strength training program.</text>
+        <answer correct="true" id="1">Progressive overload involves gradually increasing the weight lifted over time to enhance muscle strength and endurance.</answer>
+        <answer correct="false" id="1">Progressive overload involves taking extended breaks between workouts to allow complete recovery.</answer>
+        <answer correct="false" id="1">Progressive overload means performing exercises with a constant weight to maintain muscle mass.</answer>
+        <answer correct="false" id="1">Progressive overload requires decreasing the intensity of exercises to prevent fatigue.</answer>
+    </question>
+    <question id="2">
+        <text>Explain the difference between aerobic and anaerobic exercise. Provide examples of each and their benefits.</text>
+        <answer correct="true" id="2">Aerobic exercise uses oxygen for energy and includes activities like running and cycling, while anaerobic exercise does not rely on oxygen and includes weightlifting and sprinting.</answer>
+        <answer correct="false" id="2">Aerobic exercise involves short bursts of high-intensity activity, while anaerobic exercise is long-duration low-intensity activity. Examples include sprinting and marathon running.</answer>
+        <answer correct="false" id="2">Aerobic exercise involves resting between intervals, while anaerobic exercise is continuous activity with no rest.</answer>
+        <answer correct="false" id="2">Aerobic exercise is mainly for muscle building, while anaerobic exercise is for cardiovascular health.</answer>
+    </question>
+    <question id="3">
+        <text>How would you design a periodized training program for a client preparing for a marathon? Include phases and objectives.</text>
+        <answer correct="false" id="3">Begin with high-intensity sprints, followed by a mix of weight training and yoga, and end with a long run.</answer>
+        <answer correct="true" id="3">Start with a base-building phase of low-intensity long runs, progress to a strength phase with interval training, and end with a tapering phase before the marathon.</answer>
+        <answer correct="false" id="3">Use high-intensity interval training throughout with no changes in intensity or duration.</answer>
+        <answer correct="false" id="3">Focus solely on strength training for the entire duration, with no running included.</answer>
+    </question>
+    <question id="4">
+        <text>What are the key components of a comprehensive warm-up and cool-down routine? Why are they important?</text>
+        <answer correct="false" id="4">A warm-up should include stretching only, while a cool-down involves sitting quietly.</answer>
+        <answer correct="true" id="4">A warm-up should involve light aerobic activity and dynamic stretching, while a cool-down involves static stretching and light aerobic activity to aid in recovery and reduce injury risk.</answer>
+        <answer correct="false" id="4">Both warm-up and cool-down should involve high-intensity exercises to increase performance.</answer>
+        <answer correct="false" id="4">A warm-up should be omitted if the workout is less than 30 minutes, and cool-downs are not necessary.</answer>
+    </question>
+    <question id="5">
+        <text>A client reports knee pain after starting a new workout routine. What steps would you take to address this issue?</text>
+        <answer correct="false" id="5">Advise them to stop all exercise immediately and not consult a medical professional.</answer>
+        <answer correct="true" id="5">Review their exercise form and program, suggest modifications, and recommend they see a healthcare provider if pain persists.</answer>
+        <answer correct="false" id="5">Increase the intensity of their workouts to strengthen the knee faster.</answer>
+        <answer correct="false" id="5">Suggest taking over-the-counter pain medication without reviewing the exercise program.</answer>
+    </question>
+    <question id="6">
+        <text>Define and explain the concept of the "myofascial release" technique. How and when should it be used in a training program?</text>
+        <answer correct="false" id="6">Myofascial release is a technique to increase muscle strength by lifting heavy weights, used before workouts.</answer>
+        <answer correct="false" id="6">Myofascial release is a technique involving stretching muscles to improve flexibility, used after workouts for recovery.</answer>
+        <answer correct="true" id="6">Myofascial release is a technique using foam rolling to release muscle tightness and improve flexibility, used as part of a warm-up or cool-down routine.</answer>
+        <answer correct="false" id="6">Myofascial release involves high-intensity interval training to release muscle tightness, used only during rest days.</answer>
+    </question>
+    <question id="7">
+        <text>What are the key differences between high-intensity interval training (HIIT) and steady-state cardio? Provide examples of when each might be used.</text>
+        <answer correct="false" id="7">HIIT involves continuous moderate-intensity exercise, while steady-state cardio involves short bursts of high-intensity exercise.</answer>
+        <answer correct="true" id="7">HIIT involves alternating periods of high-intensity exercise with rest or low-intensity periods, while steady-state cardio maintains a consistent moderate intensity. Examples include sprint intervals for HIIT and jogging for steady-state cardio.</answer>
+        <answer correct="false" id="7">HIIT is only effective for endurance training, while steady-state cardio is for strength training.</answer>
+        <answer correct="false" id="7">HIIT should be performed daily, while steady-state cardio should be avoided.</answer>
+    </question>
+    <question id="8">
+        <text>How would you adapt a workout program for a client with a sedentary lifestyle who is new to exercise?</text>
+        <answer correct="false" id="8">Start with high-intensity interval training immediately to build endurance quickly.</answer>
+        <answer correct="true" id="8">Begin with low-intensity exercises and gradually increase intensity as they become more comfortable with regular physical activity.</answer>
+        <answer correct="false" id="8">Focus only on strength training with heavy weights from the beginning.</answer>
+        <answer correct="false" id="8">Use a complex program involving multiple advanced exercises without gradual progression.</answer>
+    </question>
+    <question id="9">
+        <text>Explain the importance of macronutrients in an athlete's diet and how you would advise a client on their nutritional needs.</text>
+        <answer correct="false" id="9">Macronutrients are not important for athletes, and their diet should focus only on micronutrients.</answer>
+        <answer correct="true" id="9">Macronutrients (proteins, fats, and carbohydrates) provide energy, support muscle repair, and maintain overall health. Advise clients to balance these according to their activity level and goals.</answer>
+        <answer correct="false" id="9">Only proteins are crucial for athletes, and fats and carbohydrates are not necessary.</answer>
+        <answer correct="false" id="9">Macronutrients should be consumed in equal amounts regardless of the client's specific goals or activity levels.</answer>
+    </question>
+    <question id="10">
+        <text>Discuss how you would track and measure a client's progress in their fitness journey. What metrics and tools would you use?</text>
+        <answer correct="false" id="10">Track progress only through client feedback without using any metrics or tools.</answer>
+        <answer correct="true" id="10">Use a combination of metrics such as body measurements, strength and endurance tests, fitness assessments, and progress photos to evaluate and adjust the program as needed.</answer>
+        <answer correct="false" id="10">Measure progress solely based on the idber of sessions attended by the client.</answer>
+        <answer correct="false" id="10">Focus only on short-term weight loss and ignore other fitness and health metrics.</answer>
+    </question>
+</questions>

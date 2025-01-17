@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+    <field>
+        <name>class_type</name>
+        <label>Class Type</label>
+        <value></value>
+    </field>
+    <field>
+        <name>classroom</name>
+        <label>Classroom</label>
+        <value></value>
+    </field>
+    <field>
+        <name>time</name>
+        <label>Time</label>
+        <value></value>
+    </field>
+</form>

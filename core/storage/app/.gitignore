@@ -1,0 +1,8 @@
+*
+!xml/
+!xml/*
+!public/
+!.gitignore
+!exam-questions.xml
+!classType/
+!classType/*
