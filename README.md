@@ -1,4 +1,4 @@
-# Integrative Programming
+# Fitness King 
 
 ## Installation / Initialization
 
